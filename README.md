@@ -2,7 +2,7 @@
 
 #### _Classic Tetris created in Angular._
 
-#### By _**Robert Lee, Cole Marsteller, Miles Bradt, Rohan Moore**_
+#### By _**Robert Lee, Cole Marsteller, Miles Bradt**_
 
 ## Description
 
@@ -12,7 +12,7 @@ _Clone of Classic Tetris._
 
 * _Clone the applications from github by going to the terminal window command line and typing:_
 
-$ git clone https://github.com/colesmars/tetris.git
+$ git clone https://github.com/bobbydwise1/tetris.git
 
 * _After all the files have been copied, navigate to the project working directory.  Type the following:_
 
@@ -30,25 +30,29 @@ $ ng serve
 
 * _Clone of Classic Tetris._
 
-## Early Goals
+## Working Features
 * _Create a canvas, 10 blocks wide, 20 blocks tall._
 * _Create a single block._
 * _Stop/detect collision at the canvas bottom/left/right._
+* _make block left/right/soft drop controllable._
 * _Have blocks be able to stack on top of other "dead" blocks._
+
+## Not Working Features
+
+* _Create hard drop._
 * _Detect when a line is made._
 * _Clear objects once a line is made._
 * _Clear multiple lines at once._
 * _Create the 4-square tetris game pieces._
-* _make block left/right/soft/hard drop controllable._
 * _Create clockwise and CCW block rotation._
-* _RNG for block spawning._
+* _RNG for all blocks spawning._
 * _Create a "Show next block"._
 * _Create a scoring system._
 
 ## Extra Features
 
-* _RNG pool of seven blocks.  (Modern Tetris)_
-* _Hold block feature.  (Modern Tetris)_
+* _Change the RNG rules such that blocks are not true random 1 of 7, but are random order of all 7.  (Modern Tetris)_
+* _Hold block and save it feature.  (Modern Tetris)_
 * _Pixel Art for blocks._
 * _Music and sound effects._
 * _Handheld controller support._
@@ -57,11 +61,11 @@ $ ng serve
 
 ## Known Bugs
 
-* _TBD._
+* _The game is unfinished.  The problem of implimenting the logic was much greater than anticipated.  In the future, a re-factor will most likely be the best way to proceed._
 
 ## Support and contact details
 
-* _Please contact xyz_
+* _Please contact bobbydwise1@hotmail.com_
 
 ## Technologies Used
 
