@@ -22,7 +22,7 @@ $ npm install
 
 $ ng serve
 
-* _The terminal window will run the application, and a user interface should begin automatically in your default web browser.
+* _The terminal window will run the application, and a user interface should begin automatically in your default web browser._
 
 * _To stop the application, return to the terminal window and enter the command CTRL+C.  If prompted for (Y/N), pick "Y".  Then close the user interface tab in your web browser._
 
