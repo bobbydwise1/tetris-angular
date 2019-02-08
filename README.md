@@ -20,7 +20,7 @@ $ npm install
 
 * _Node Package Manager (npm) should automatically start downloading all required dependencies.  After all files have been downloaded, type the following:_
 
-$ ng serve
+$ ng serve -o
 
 * _The terminal window will run the application, and a user interface should begin automatically in your default web browser._
 
@@ -29,6 +29,10 @@ $ ng serve
 ## Behavior
 
 * _Clone of Classic Tetris._
+* _In case you didn't know what Tetris is, it is the most popular paid-selling downloaded game of all time._
+* _If you still need more information about Tetris, see the Wikipeida article:_
+  https://en.wikipedia.org/wiki/Tetris
+* _If you still don't know what it Tetris, you may have been living under a rock for the last 40 years._
 
 ## Working Features
 * _Create a canvas, 10 blocks wide, 20 blocks tall._
