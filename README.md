@@ -73,7 +73,7 @@ $ ng serve -o
 
 ## Technologies Used
 
-* _Javascript, jQuery, HTML, CSS, Bootstrap, Atom, NPM, Angular._
+* _Javascript, jQuery, HTML, CSS, Bootstrap, Atom, NPM, Angular, p5 Javascript libraries._
 
 ### License
 
